@@ -2,28 +2,22 @@
 			      STATIONFALL
 	(c) Copyright 1987 Infocom, Inc.  All Rights Reserved."
 
-<PRINC "
- *** S6: Stationfall ***
-">
-
-ON!-INITIAL
-OFF!-INITIAL	;"makes debugging possible -- pdl"
-
-<SET REDEFINE T>
-
-<SETG NEW-VOC? T>
+<CONSTANT RELEASEID 1> <VERSION ZIP>
 
 <FREQUENT-WORDS?>
+<SETG NEW-VOC? T>
 
-<INSERT-FILE "MISC" T>
-<INSERT-FILE "PARSER" T>
-<INSERT-FILE "INTERRUPTS" T>
-<INSERT-FILE "SYNTAX" T>
-<INSERT-FILE "VERBS" T>
-<INSERT-FILE "GLOBALS" T>
-<INSERT-FILE "SHIP" T>
-<INSERT-FILE "STATION" T>
-<INSERT-FILE "VILLAGE" T>
+<INSERT-FILE "misc" T>
+<INSERT-FILE "parser" T>
+
+<INSERT-FILE "globals" T>
+<INSERT-FILE "syntax" T>
+<INSERT-FILE "verbs" T>
 
 <PROPDEF SIZE 5>
 <PROPDEF CAPACITY 5>
+
+<INSERT-FILE "interrupts" T>
+<INSERT-FILE "ship" T>
+<INSERT-FILE "station" T>
+<INSERT-FILE "village" T>
