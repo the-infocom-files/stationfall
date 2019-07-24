@@ -2424,7 +2424,7 @@ the door tries to shut, almost jamming against you!">
 		<COND (<NOT <FSET? ,AUTO-DOOR ,TOUCHBIT>>
 		       <FSET ,AUTO-DOOR ,TOUCHBIT>
 		       <TELL
-" Very puzzling; auto-doors have been around for millenia, and are
+" Very puzzling; auto-doors have been around for millennia, and are
 generally the epitome of reliability.">)>)>
 	 <CRLF> <CRLF>>
 

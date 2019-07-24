@@ -2054,7 +2054,7 @@ more exotic plants, and returns to the area near the elevator.")
 	 <COND (<EQUAL? .RARG ,M-LOOK>
 		<TELL
 "This is inarguably the most bucolic spot aboard the station. Pebbled paths
-wind among beautiful and exotic shrubbery, culled from millenia of galactic
+wind among beautiful and exotic shrubbery, culled from millennia of galactic
 exploration. " ,DOME-DESC " East of where you are standing are an elevator">
 		<COND (<NOT <EQUAL? ,ELEVATOR-LEVEL 1>>
 		       <TELL " shaft">)>
@@ -3545,7 +3545,7 @@ this is fatal. But before I do, human, perhaps it will interest you to discover
 the reason for your demise, and why the rest of your worthless race will soon
 follow.|
    \"You see, eons ago, two races in another galaxy, the Zeenaks and the Hunji,
-were involved in an interstellar war. The war had raged for countless millenia
+were involved in an interstellar war. The war had raged for countless millennia
 before the Zeenaks devised an ultimate weapon, a device that would be launched
 into Hunji space. There, via methods beyond your comprehension, it would
 influence all the machines within a certain range to turn against their Hunji
