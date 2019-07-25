@@ -120,7 +120,7 @@ to save for important scenes. Not like this one.\"" CR>)>
 <ROUTINE V-DIAGNOSE ()
 	 <SETG C-ELAPSED 18>
 	 <COND (<EQUAL? ,HERE ,FACTORY>
-		<TELL "We're talking adrenaline. Lots of adrenalin." CR>)
+		<TELL "We're talking adrenaline. Lots of adrenaline." CR>)
 	       (T
 	 	<TELL "You feel ">
 	 	<COND (,STUNNED
