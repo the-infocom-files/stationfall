@@ -3351,7 +3351,7 @@ temperatures. For a robot, that is.\"" CR>)
 		      (<AND <VERB? OPEN UNLOCK MUNG>
 			    <PRSO? ,SAFE ,STRONG-BOX>>
 		       <TELL
-"\"Regretably, such criminal skills are not among my limited abilities.\"" CR>)
+"\"Regrettably, such criminal skills are not among my limited abilities.\"" CR>)
 		      (<AND <VERB? OPEN UNLOCK>
 			    <PRSO? ,SECURITY-DOOR>>
 		       <TELL
