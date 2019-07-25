@@ -3005,7 +3005,7 @@ only its dignity was injured.">)>)
 				<FSET? ,ELEVATOR ,WEIGHTLESSBIT>>>
 		       <COND (,LIT
 		       	      <TELL
-" As the ostrich unexpectly enters the weightless environment of the ">
+" As the ostrich unexpectedly enters the weightless environment of the ">
 			      <COND (<EQUAL? ,HERE ,ELEVATOR>
 				     <TELL "elevator">)
 				    (T
