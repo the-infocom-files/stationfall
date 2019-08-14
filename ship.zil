@@ -288,7 +288,7 @@ important assignment. Also for a trivial assignment like yours. "
 	(FLOYD-ASK-ABOUT "That's me!")
 	(ACTION FLOYD-F)>
 
-<ROUTINE FLOYD-F ("OPTIONAL" (OARG <>) "AUX" X N TXT)
+<ROUTINE FLOYD-F ("OPTIONAL" (OARG <>) "AUX" TXT)
 	 <COND (.OARG
 		<COND (<EQUAL? .OARG ,M-OBJDESC?>
 		       <RTRUE>)>

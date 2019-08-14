@@ -1114,7 +1114,7 @@ CR>>
 <ROUTINE V-HUG ()
 	 <TELL "Hugged." CR>>
 
-<ROUTINE V-IN ("AUX" VEHICLE)
+<ROUTINE V-IN ()
 	 <DO-WALK ,P?IN>>
 
 <ROUTINE V-KICK ()

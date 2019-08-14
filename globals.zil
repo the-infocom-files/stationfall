@@ -1001,7 +1001,7 @@ you dash to the deserted bridge, but it's too late to stop the out-of-control
 Duffy from ramming the massive space station! The hull of the station rushes
 toward you">> 
 
-<ROUTINE WAKING-UP ("AUX" X N)
+<ROUTINE WAKING-UP ()
 	 <CRLF> <CRLF>
 	 <COND (<NOT <IN? ,PROTAGONIST ,BED>>
 		<MOVE ,PROTAGONIST ,HERE>)>
