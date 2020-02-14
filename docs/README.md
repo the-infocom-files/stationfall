@@ -20,15 +20,13 @@ The following sources provide further information on Stationfall:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Stationfall listed in the Infocom Fact Sheet. It also holds the source files for versions 1/861017, 63/870218, 87/870326, 107/870430 and a later, in progress, version.
-
-| Release | Serial | Story File                         | Zarf Sources                | Historical Sources |
-| -------:|:------:|:----------------------------------:|:---------------------------:|:------------------:|
-|       1 | 861017 |  [stationfall-first-r1-s861017.z3] |                           - |                  - |
-|      63 | 870218 |  [stationfall-beta-r63-s870218.z3] |  [stationfall-beta-r63.zip] |     [beta version] |
-|      87 | 870326 | [stationfall-gamma-r87-s870326.z3] | [stationfall-gamma-r87.zip] |    [gamma version] |
-|     107 | 870430 |      [stationfall-r107-s870430.z3] |      [stationfall-r107.zip] |     [revision 107] |
-|       - |      - |                                  - |    [stationfall-rlater.zip] |   [final revision] |
+| Release | Serial | Type | Story File                         | Obsessive Sources           | Historical Sources |
+| -------:|:------:|:----:|:----------------------------------:|:---------------------------:|:------------------:|
+|       1 | 861017 |  ??? |  [stationfall-first-r1-s861017.z3] |                           - |                  - |
+|      63 | 870218 |  DEV |  [stationfall-beta-r63-s870218.z3] |  [stationfall-beta-r63.zip] |     [beta version] |
+|      87 | 870326 |  DEV | [stationfall-gamma-r87-s870326.z3] | [stationfall-gamma-r87.zip] |    [gamma version] |
+|     107 | 870430 |  PUB |      [stationfall-r107-s870430.z3] |      [stationfall-r107.zip] |     [revision 107] |
+|       - |      - |  WIP |                                  - |    [stationfall-rlater.zip] |   [final revision] |
 
 [stationfall-first-r1-s861017.z3]: https://eblong.com/infocom/gamefiles/stationfall-first-r1-s861017.z3
 
