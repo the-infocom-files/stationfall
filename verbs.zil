@@ -120,7 +120,7 @@ to save for important scenes. Not like this one.\"" CR>)>
 <ROUTINE V-DIAGNOSE ()
 	 <SETG C-ELAPSED 18>
 	 <COND (<EQUAL? ,HERE ,FACTORY>
-		<TELL "We're talking adrenaline. Lots of adrenalin." CR>)
+		<TELL "We're talking adrenaline. Lots of adrenaline." CR>)
 	       (T
 	 	<TELL "You feel ">
 	 	<COND (,STUNNED
@@ -2424,7 +2424,7 @@ the door tries to shut, almost jamming against you!">
 		<COND (<NOT <FSET? ,AUTO-DOOR ,TOUCHBIT>>
 		       <FSET ,AUTO-DOOR ,TOUCHBIT>
 		       <TELL
-" Very puzzling; auto-doors have been around for millenia, and are
+" Very puzzling; auto-doors have been around for millennia, and are
 generally the epitome of reliability.">)>)>
 	 <CRLF> <CRLF>>
 
@@ -3005,7 +3005,7 @@ only its dignity was injured.">)>)
 				<FSET? ,ELEVATOR ,WEIGHTLESSBIT>>>
 		       <COND (,LIT
 		       	      <TELL
-" As the ostrich unexpectly enters the weightless environment of the ">
+" As the ostrich unexpectedly enters the weightless environment of the ">
 			      <COND (<EQUAL? ,HERE ,ELEVATOR>
 				     <TELL "elevator">)
 				    (T

@@ -330,7 +330,7 @@ important assignment. Also for a trivial assignment like yours. "
 			      <SETG FLOYD-TOLD T>
 			      <TELL
 "Floyd waves his hands helplessly. \"Yes... I mean no... I mean oh no oh help
-me please. Floyd in quandry...\"" CR>)
+me please. Floyd in quandary...\"" CR>)
 			     (T
 			      <TELL
 "Floyd just looks at you with confusion and panic in his eyes." CR>

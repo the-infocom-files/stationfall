@@ -957,7 +957,7 @@ a nice safe place to sleep." CR>)
 "The quiet, dusty corridors stir disturbing memories. You're back on Resida,
 the deserted, plague-stricken world where you met Floyd. A hot flush creeps
 over you, indicating that the virulent disease that conquered this planet is
-beginnning its insidious work on you"
+beginning its insidious work on you"
 
 "You are strolling across Deck Four of the Duffy, when suddenly you remember
 that you were supposed to have Handwriting Legibility Evaluation Forms -- all
